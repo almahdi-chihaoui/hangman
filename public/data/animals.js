@@ -1,3 +1,3 @@
 
-export const animals = ["caat", "doog", "bear", "lioin", "tiger", "leopard"]
+export const animals = ["cat", "dog", "bear", "lion", "tiger", "leopard", "duck", "mouse", "eagle", "elephant"] //etc
 
