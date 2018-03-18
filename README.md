@@ -18,7 +18,6 @@ npm install -g bower
 To run the app locally:
 
 ```bash
-mkdir hangman
 git clone https://github.com/almahdi-chihaoui/hangman.git
 cd hangman
 npm install
