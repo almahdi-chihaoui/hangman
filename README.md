@@ -8,12 +8,6 @@ Requirements:
 - git
 - Node 
 - npm 
-- bower
-
-If you don't have bower you can install it globally:
-```bash
-npm install -g bower
-```
 
 To run the app locally:
 
